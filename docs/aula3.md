@@ -1,12 +1,17 @@
 # Aula 03
 
-# Materiais
+- Projeto guiado da calculadora
+- Continuï¿½ï¿½o explicaï¿½ï¿½o de condicional
+- Continuaï¿½ï¿½o explicaï¿½ï¿½o de repetiï¿½ï¿½o
+- Versionamento de cï¿½digo
 
-## Exemplo código
+## Materiais
+
+## Exemplo cï¿½digo
 
 ## Exercicio
 
-## Próximos
+## Prï¿½ximos
 
 - [voltar](../README.md)
-- [próximo](aula4.md)
+- [prï¿½ximo](aula4.md)
