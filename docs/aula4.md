@@ -1,7 +1,7 @@
 # Aula 04
 
 - Revisão
-- Lista de exercicios
+- Lista de exercícios
 - Apoio lista
 
 ## Materiais
@@ -11,4 +11,4 @@
 ## Próximos
 
 - [voltar](../README.md)
-- [pr�ximo](aula5.md)
+- [próximo](aula5.md)

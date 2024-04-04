@@ -1,8 +1,8 @@
 # Aula 05
 
 - For
-- Ternario
-- Continuação exercicios
+- Ternário
+- Continuação exercícios
 - FizzBuzz
 - Menor que c
 

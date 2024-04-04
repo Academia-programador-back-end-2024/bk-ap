@@ -3,10 +3,10 @@
 ## Parte 1
 
 - Criado primeiro programa
-- Váriaveis primitivas ou simples
+- Variáveis primitivas ou simples
 - Escrita de dados no console
 - Entendimento de projeto com e sem program
-- Interporação de texto e váriaves
+- Interpolação de texto e variáveis
 
 [Projeto](https://github.com/drhamann/bk-ap-calculadora/tree/main/src/Console.OlaC%23)
 
@@ -33,7 +33,7 @@ internal class Program
 
 ```
 
-## Exercicio
+## Exercício
 
 - Escrever o código em sua maquina
 
@@ -41,7 +41,7 @@ internal class Program
 ## Parte 2
 
 - Projeto guiado calculadora
-- Entendimento requesitos
+- Entendimento requisitos
 - Estrutura de repetição
 
 [Projeto](https://github.com/drhamann/bk-ap-calculadora/blob/main/src/Calculadora.Console/Program.cs)
@@ -93,9 +93,9 @@ do // Estrutura repetição que sempre executa uma vez
 
 ```
 
-## Exercicio
+## Exercício
 
-- Escrever da sua maneira os requesitos da calculadora
+- Escrever da sua maneira os requisitos da calculadora
 
 
 ## Próximos

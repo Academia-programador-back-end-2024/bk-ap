@@ -1,10 +1,10 @@
 # Aula 01 
 
 - Nós conhecendo
-- O que é um  algoritimo
+- O que é um  algoritmo
 	- Sequencia de passos e instruções para resolver um problema.	
 - O que é um programa
-	- Execução de um algorimo	
+	- Execução de um algoritmo	
 - Historia do c#
 
 # Materiais
@@ -23,7 +23,7 @@ Trocar o pneu de um carro
 6 - Parafusar a Roda
 
 
-## Exercicio
+## Exercício
 
 - Criar algoritmos.
 

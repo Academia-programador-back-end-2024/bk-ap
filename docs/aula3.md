@@ -1,14 +1,14 @@
 # Aula 03
 
 - Projeto guiado da calculadora
-- Continu��o explica��o de condicional
-- Continua��o explica��o de repeti��o
-- Versionamento de c�digo
+- Continuação explicação de condicional
+- Continuação explicação de repetição
+- Versionamento de código
 
 ## Materiais
 [Calculadora](https://github.com/drhamann/bk-ap-calculadora?authuser=0)
 
-## Exemplo c�digo
+## Exemplo código
 
 ```
 using System;
@@ -107,4 +107,4 @@ class Calculadora
 ## Próximos
 
 - [voltar](../README.md)
-- [pr�ximo](aula4.md)
+- [próximo](aula4.md)
