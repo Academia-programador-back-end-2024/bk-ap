@@ -1,59 +1,67 @@
-# Aula 05
+# Aula 06
 
 - Vector ou Array
 - Matriz
 
-## Exemplo código
 
-### Loop "for" em C#:
+### Vetores em C#
+Vetores em C# (também conhecidos como arrays unidimensionais) são estruturas de dados que permitem armazenar uma coleção de elementos de um mesmo tipo em uma única dimensão.
 
-O loop "for" é uma estrutura de repetição utilizada para executar um bloco de código um número específico de vezes. A sua sintaxe básica é:
-
+#### Declaração de um vetor:
 ```csharp
-for (inicialização; condição; incremento)
+Tipo[] nomeDoVetor = new Tipo[tamanho];
+```
+
+#### Atribuir valores a um vetor:
+```csharp
+nomeDoVetor[indice] = valor;
+```
+
+#### Acessar elementos do vetor:
+```csharp
+Tipo elemento = nomeDoVetor[indice];
+```
+
+#### Iterar sobre um vetor:
+```csharp
+for (int i = 0; i < nomeDoVetor.Length; i++)
 {
-    // Bloco de código a ser repetido
+    Tipo elemento = nomeDoVetor[i];
+    // Faça algo com o elemento
 }
 ```
 
-- **Inicialização**: É onde você inicializa o contador do loop.
-- **Condição**: É a expressão avaliada a cada iteração. Se for verdadeira, o bloco de código é executado; caso contrário, o loop termina.
-- **Incremento**: É uma expressão que é executada após cada iteração do loop. Ela geralmente é usada para incrementar ou decrementar o contador.
+### Matrizes em C#
+Matrizes em C# (ou arrays multidimensionais) são estruturas de dados que permitem armazenar elementos em múltiplas dimensões.
 
-Exemplo:
-
+#### Declaração de uma matriz:
 ```csharp
-for (int i = 0; i < 5; i++)
+Tipo[,] nomeDaMatriz = new Tipo[linhas, colunas];
+```
+
+#### Atribuir valores a uma matriz:
+```csharp
+nomeDaMatriz[linha, coluna] = valor;
+```
+
+#### Acessar elementos da matriz:
+```csharp
+Tipo elemento = nomeDaMatriz[linha, coluna];
+```
+
+#### Iterar sobre uma matriz:
+```csharp
+for (int i = 0; i < linhas; i++)
 {
-    Console.WriteLine("O valor de i é: " + i);
+    for (int j = 0; j < colunas; j++)
+    {
+        Tipo elemento = nomeDaMatriz[i, j];
+        // Faça algo com o elemento
+    }
 }
 ```
-
-Este loop irá imprimir os valores de 0 a 4, já que o contador `i` começa em 0, continua enquanto `i` for menor que 5 e é incrementado de 1 em 1 em cada iteração.
-
-### Operador Ternário em C#:
-
-O operador ternário é uma forma compacta de escrever uma instrução condicional. Ele avalia uma expressão booleana e, com base no resultado dessa avaliação, retorna um dos dois valores fornecidos. Sua sintaxe é:
-
-```csharp
-condição ? valor_se_verdadeiro : valor_se_falso;
-```
-
-- **Condição**: A expressão a ser avaliada. Se for verdadeira, o valor após o "?" é retornado; caso contrário, o valor após ":" é retornado.
-
-Exemplo:
-
-```csharp
-int a = 10;
-int b = 5;
-
-int maior = (a > b) ? a : b;
-Console.WriteLine("O maior número é: " + maior);
-```
-
-Neste exemplo, se `a` for maior que `b`, o valor de `a` será atribuído à variável `maior`; caso contrário, o valor de `b` será atribuído.
 
 ## Próximos
 
 - [voltar](../README.md)
-- [próximo](aula06.md)
+- [próximo](aula07.md)
