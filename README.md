@@ -6,3 +6,4 @@
 - [Aula 4](docs/aula4.md)
 - [Aula 5](docs/aula5.md)
 - [Aula 6](docs/aula6.md)
+- [Aula 7](docs/aula7.md)

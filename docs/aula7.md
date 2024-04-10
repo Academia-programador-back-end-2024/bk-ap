@@ -1,4 +1,4 @@
-# Aula 06
+# Aula 07
 
 - Função
 - Ref
@@ -205,4 +205,4 @@ static void ImprimirResultado(decimal ResultadoOperacao)
 ## Próximos
 
 - [voltar](../README.md)
-- [próximo](aula07.md)
+- [próximo](aula08.md)
