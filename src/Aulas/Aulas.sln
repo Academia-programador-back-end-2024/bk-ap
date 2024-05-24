@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{D9F0A66B-4
 	ProjectSection(SolutionItems) = preProject
 		..\..\docs\aula1.md = ..\..\docs\aula1.md
 		..\..\docs\aula2.md = ..\..\docs\aula2.md
+		..\..\docs\aula20.md = ..\..\docs\aula20.md
 		..\..\docs\aula3.md = ..\..\docs\aula3.md
 		..\..\docs\aula4.md = ..\..\docs\aula4.md
 		..\..\docs\aula5.md = ..\..\docs\aula5.md
@@ -25,9 +26,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{D9F0A66B-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula14", "Aula14", "{133F1028-003A-49AE-9840-D813D46BC851}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploDeClasses", "Aula14\ExemploDeClasses\ExemploDeClasses.csproj", "{140839A3-4E4D-4AB6-A08F-6C22447920CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploDeClasses", "Aula14\ExemploDeClasses\ExemploDeClasses.csproj", "{140839A3-4E4D-4AB6-A08F-6C22447920CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploDeClassesConsole", "ExemploDeClassesConsole\ExemploDeClassesConsole.csproj", "{B6BCA979-8F1F-4208-A2C6-DD8F121C1879}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploDeClassesConsole", "ExemploDeClassesConsole\ExemploDeClassesConsole.csproj", "{B6BCA979-8F1F-4208-A2C6-DD8F121C1879}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
